@@ -1,7 +1,7 @@
 {
-  "main.css": "/wedding/static/css/main.b5056928.chunk.css",
-  "main.js": "/wedding/static/js/main.d88b3a95.chunk.js",
-  "main.js.map": "/wedding/static/js/main.d88b3a95.chunk.js.map",
+  "main.css": "/wedding/static/css/main.0dd3f931.chunk.css",
+  "main.js": "/wedding/static/js/main.0a0e6369.chunk.js",
+  "main.js.map": "/wedding/static/js/main.0a0e6369.chunk.js.map",
   "static/css/1.25bb05ec.chunk.css": "/wedding/static/css/1.25bb05ec.chunk.css",
   "static/js/1.be5ad211.chunk.js": "/wedding/static/js/1.be5ad211.chunk.js",
   "static/js/1.be5ad211.chunk.js.map": "/wedding/static/js/1.be5ad211.chunk.js.map",
@@ -10,9 +10,9 @@
   "static/media/App.css": "/wedding/static/media/home-background.348669b5.jpg",
   "static/media/all.min.css": "/wedding/static/media/fa-brands-400.7d43b9ae.eot",
   "static/media/Content.css": "/wedding/static/media/fall-background.bbb1c84a.jpg",
-  "static/css/main.b5056928.chunk.css.map": "/wedding/static/css/main.b5056928.chunk.css.map",
   "static/css/1.25bb05ec.chunk.css.map": "/wedding/static/css/1.25bb05ec.chunk.css.map",
+  "static/css/main.0dd3f931.chunk.css.map": "/wedding/static/css/main.0dd3f931.chunk.css.map",
   "index.html": "/wedding/index.html",
-  "precache-manifest.20e7f964a58ddbce1a1f426576434269.js": "/wedding/precache-manifest.20e7f964a58ddbce1a1f426576434269.js",
+  "precache-manifest.e6acbbb2e6002d9ce70c8175738e5512.js": "/wedding/precache-manifest.e6acbbb2e6002d9ce70c8175738e5512.js",
   "service-worker.js": "/wedding/service-worker.js"
 }
