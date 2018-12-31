@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "fef43c1fd872ef7f1880483d9b63ccf2",
-    "url": "/wedding/static/media/fa-brands-400.fef43c1f.svg"
+    "revision": "deb8619e67992d3fa088b5dcbb8cff36",
+    "url": "/wedding/static/media/fa-regular-400.deb8619e.ttf"
   },
   {
-    "revision": "1361b1db5ee73d59f013",
+    "revision": "797d46006c17e272ae61",
     "url": "/wedding/static/css/main.1def8607.chunk.css"
   },
   {
@@ -36,6 +36,10 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/fa-brands-400.50a544b5.ttf"
   },
   {
+    "revision": "8e9f0ee6d016526776c27f91fea55cca",
+    "url": "/wedding/static/media/fa-regular-400.8e9f0ee6.eot"
+  },
+  {
     "revision": "fc5252e568503bfb163233ec63b8a2ce",
     "url": "/wedding/static/media/fa-regular-400.fc5252e5.woff"
   },
@@ -44,24 +48,8 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/fa-regular-400.e65d96d0.woff2"
   },
   {
-    "revision": "8e9f0ee6d016526776c27f91fea55cca",
-    "url": "/wedding/static/media/fa-regular-400.8e9f0ee6.eot"
-  },
-  {
-    "revision": "1361b1db5ee73d59f013",
-    "url": "/wedding/static/js/main.1361b1db.chunk.js"
-  },
-  {
-    "revision": "deb8619e67992d3fa088b5dcbb8cff36",
-    "url": "/wedding/static/media/fa-regular-400.deb8619e.ttf"
-  },
-  {
-    "revision": "734248d027cbaac7f03c0d931ec95593",
-    "url": "/wedding/static/media/fa-regular-400.734248d0.svg"
-  },
-  {
-    "revision": "f72d546abcc27880adf8428792c72519",
-    "url": "/wedding/static/media/fa-solid-900.f72d546a.eot"
+    "revision": "797d46006c17e272ae61",
+    "url": "/wedding/static/js/main.797d4600.chunk.js"
   },
   {
     "revision": "8086e197694282b26c7b729945ecc377",
@@ -72,12 +60,24 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/fa-solid-900.52b8345b.woff"
   },
   {
-    "revision": "27603739fe78fee587c7b84873475b61",
-    "url": "/wedding/static/media/fa-solid-900.27603739.svg"
+    "revision": "734248d027cbaac7f03c0d931ec95593",
+    "url": "/wedding/static/media/fa-regular-400.734248d0.svg"
+  },
+  {
+    "revision": "f72d546abcc27880adf8428792c72519",
+    "url": "/wedding/static/media/fa-solid-900.f72d546a.eot"
   },
   {
     "revision": "1709a2810c3752483683f3f7d287aa89",
     "url": "/wedding/static/media/fa-solid-900.1709a281.ttf"
+  },
+  {
+    "revision": "fef43c1fd872ef7f1880483d9b63ccf2",
+    "url": "/wedding/static/media/fa-brands-400.fef43c1f.svg"
+  },
+  {
+    "revision": "27603739fe78fee587c7b84873475b61",
+    "url": "/wedding/static/media/fa-solid-900.27603739.svg"
   },
   {
     "revision": "348669b5ce8ea405b3250e6bf8a8e07e",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/wedding/static/css/1.d7e2adb5.chunk.css"
   },
   {
-    "revision": "0a12bb009ce2ee675235bddbfe5c7737",
+    "revision": "28eb96ebee3f8cdc11c1b94d5508537a",
     "url": "/wedding/index.html"
   }
 ];
