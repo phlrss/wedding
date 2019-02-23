@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/wedding/static/js/runtime~main.0e44ce24.js"
   },
   {
-    "revision": "3cf0898c393e36f66dd2",
-    "url": "/wedding/static/js/main.3cf0898c.chunk.js"
+    "revision": "d6ed7a17d550be0e9f22",
+    "url": "/wedding/static/js/main.d6ed7a17.chunk.js"
   },
   {
     "revision": "1c6510a2362406a0501c",
     "url": "/wedding/static/js/1.1c6510a2.chunk.js"
   },
   {
-    "revision": "3cf0898c393e36f66dd2",
+    "revision": "d6ed7a17d550be0e9f22",
     "url": "/wedding/static/css/main.e5d6b18d.chunk.css"
   },
   {
-    "revision": "b72218618c20181f5915fd610598891f",
+    "revision": "24408064416e1bf23294e3b675a02e71",
     "url": "/wedding/index.html"
   }
 ];
